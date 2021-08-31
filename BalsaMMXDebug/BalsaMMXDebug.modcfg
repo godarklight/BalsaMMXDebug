@@ -1,0 +1,13 @@
+ModCFG
+{
+    title = BalsaMMXDebug
+    author = godarklight
+    modVersion = 0.1.0
+    Plugin
+    {
+        name = BalsaMMXDebug
+        description = A test MMX window
+        asmpath = Addons\BalsaMMXDebug\BalsaMMXDebug.dll
+        order = 100
+    }
+} 
